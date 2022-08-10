@@ -3,7 +3,7 @@
 	"displayName": "Open In Azure DevOps",
 	"description": "Open the current file selection in Azure DevOps",
 	"version": "0.0.1",
-	"publisher": "sharmaankit1",
+	"publisher": "AnkitSharma",
 	"repository": {
 		"type" : "git",
 		"url" : "https://github.com/sharmaankit1/open-in-azure-devops"
