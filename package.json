@@ -3,10 +3,10 @@
 	"displayName": "Open In Azure DevOps",
 	"description": "Open the current file selection in Azure DevOps",
 	"version": "0.0.1",
-	"publisher": "benkaiser",
+	"publisher": "sharmaankit1",
 	"repository": {
 		"type" : "git",
-		"url" : "https://github.com/benkaiser/open-in-azure-devops"
+		"url" : "https://github.com/sharmaankit1/open-in-azure-devops"
 	},
 	"license": "MIT",
 	"engines": {
@@ -28,7 +28,7 @@
 					"type": "string"
 				},
 				"openInAzureDevOps.rootFolder": {
-					"description": "Root folder of your repo e.g. C:\\src\\my-repo",
+					"description": "Root folder of your repo e.g. c:\\src\\my-repo",
 					"type": "string"
 				}
 			}
