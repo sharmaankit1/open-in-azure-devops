@@ -1,8 +1,8 @@
 {
-	"name": "open-in-azure-devops",
+	"name": "open-in-azure-devops-v2",
 	"displayName": "Open In Azure DevOps",
 	"description": "Open the current file selection in Azure DevOps",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "AnkitSharma",
 	"repository": {
 		"type" : "git",
@@ -37,6 +37,10 @@
 			{
 				"command": "extension.openInAzureDevOps",
 				"title": "Open in Azure DevOps"
+			},
+			{
+				"command": "extension.copyAzureDevOpsUrl",
+				"title": "Copy file URL to Azure DevOps"
 			}
 		]
 	},

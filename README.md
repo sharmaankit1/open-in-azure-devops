@@ -3,6 +3,10 @@
 A simple VSCode extension to open the current selection in the current file in Azure DevOps.
 Handles current file selection.
 
+## Available Commands
+- Open in Azure DevOps
+- Copy file URL to Azure DevOps
+
 ## Extension Settings
 
 This extension contributes the following settings:
